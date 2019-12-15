@@ -1,0 +1,16 @@
+﻿  egam.cpp
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(96,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(97,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(124,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(138,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(149,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(241,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(278,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(295,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(341,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\egam\egam\egam.cpp(132): warning C4715: det: значение возвращается не при всех путях выполнения
+  egam.vcxproj -> C:\Users\Archi\source\repos\egam\Debug\egam.exe
